@@ -28,7 +28,7 @@ I'm a **mechanical engineer turned AI engineer** with 10 years at the intersecti
 |---|---|
 | [End-to-End EEG Classifier](https://github.com/marvinmouroum/End-to-End-EEG-Classifier) | Deep learning classification of EEG brain signals |
 | [Africa Ethno-Fusion](https://github.com/marvinmouroum/africa-ethno-fusion) | Fusing open geospatial datasets on ethnic groups into one GeoPandas dataset |
-| Patents (Ottobock) | US20250248828A1 · DE102022117757A1 — 3D geometry processing for prosthetics |
+| Patents | US20250248828A1 · DE102022117757A1 — 3D geometry processing for prosthetics |
 
 *Currently building: LLM-driven CAD workflows — teaching language models to construct real, printable parts.*
 
