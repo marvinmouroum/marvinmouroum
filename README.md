@@ -2,7 +2,7 @@
 
 # Marvin Mouroum
 
-**Bridging AI and Engineering — from 3D scanners to LLM agents**
+**Bridging AI and Engineering | from 3D scanners to LLM agents**
 
 Berlin, Germany · [LinkedIn](https://www.linkedin.com/in/marvinmouroum) · mouroum.m@gmail.com
 
