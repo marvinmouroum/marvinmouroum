@@ -15,7 +15,7 @@ I'm a **mechanical engineer turned AI engineer** with 10 years at the intersecti
 - 🎓 **B.Sc. Mechanical Engineering (TU Berlin)** — thesis: neural networks for real-time optimization of FEM material-model parameters (automated simulation-data generation in LS-DYNA, MLP in openNN, 99.6% curve match) — *AI4Engineering before the term existed*
 - 🦾 **Ottobock (Tech Lead, 3D & ML)** — initial architect of a browser-based CAD platform (three.js), patented 3D-geometry processing for prosthetics (2 filings), FDA-cleared ML 3D-scanning product
 - 🤖 **nu:legal (AI Research Lead)** — production LLM agents: tool use, multi-step planning, streaming, evaluation & observability (Langfuse)
- 🛠️ [**rebounder**](https://github.com/marvinmouroum/rebounder) — autonomous basketball rebound robot: real-time ball detection, trajectory estimation, Monte-Carlo intercept strategy, custom parts constructed in FreeCAD with LLM-assisted sketches (public preview; build details private)
+- 🛠️ [**rebounder**](https://github.com/marvinmouroum/rebounder) — autonomous basketball rebound robot: real-time ball detection, trajectory estimation, Monte-Carlo intercept strategy, custom parts constructed in FreeCAD with LLM-assisted sketches (public preview; build details private)
 - 🚀 **Founder: Fades & Braids** — Germany's first AI-powered marketplace for curly & coily hair care (Flutter, GCP serverless, WhatsApp automation)
 
 **Focus:** Agentic LLM systems · CAD / CAE × ML · 3D computer vision
