@@ -30,7 +30,7 @@ I'm a **mechanical engineer turned AI engineer** with 10 years at the intersecti
 | [rebounder-robot](https://github.com/marvinmouroum/rebounder-robot) | Autonomous basketball rebound robot — real-time ball detection, trajectory estimation, Monte-Carlo intercept strategy, ESP32 firmware, and LLM-assisted CAD hardware (drawings → STL → 3D print) |
 | [End-to-End EEG Classifier](https://github.com/marvinmouroum/End-to-End-EEG-Classifier) | Deep learning classification of EEG brain signals |
 | [Africa Ethno-Fusion](https://github.com/marvinmouroum/africa-ethno-fusion) | Fusing open geospatial datasets on ethnic groups into one GeoPandas dataset |
-| [SLAM](https://github.com/marvinmouroum/SLAM) *(fork)* | Unity 3D SLAM simulation — autonomous mining truck, simulated ToF camera, custom ICP pipeline in C++/PCL with ZMQ bridge (course project @ Uni Trento; my part: simulation & vehicle side) |
+| [SLAM](https://github.com/marvinmouroum/SLAM) *(fork)* | Unity 3D SLAM simulation — autonomous mining truck, simulated ToF camera, custom ICP pipeline in C++/PCL with ZMQ bridge (course project @ Uni Trento) |
 | Patents (Ottobock) | [US20250248828A1](https://patents.google.com/patent/US20250248828A1/en) · [DE102022117757A1](https://patents.google.com/patent/DE102022117757A1/en) — 3D geometry processing for prosthetics |
 
 *Currently building: the rebounder — and the LLM-assisted CAD workflows that construct its hardware.*
